@@ -1,2 +1,2 @@
 # v2 ClipBoard
-infrequently collecting some avaliable personal v2ray feeds
+infrequently collecting some available v2ray feeds
