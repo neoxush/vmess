@@ -1,2 +1,2 @@
 # Hello World 
-some open and free v2ray feeds, use it wisely and under your own risk control
+I collect some open and free v2 feeds from Internet, feel free to use them but do be aware of the risk by yourself
